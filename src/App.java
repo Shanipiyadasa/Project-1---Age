@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-        int age = 18;
+        int age = 100;
         if (age > 0 && age <18){
 
 System.out.println("You are Underage.");
@@ -25,7 +25,9 @@ System.out.println(" You can drive a car");
 
 }
 
+// Age is Equallent
 
-
+if (age == 10 || age == 20 || age == 30 || age == 40 || age == 50 || age == 60 || age == 70 || age == 80 || age == 90 || age == 100 || age == 120 ){
+System.out.println("Annivesary Party");}
     }
 }
