@@ -29,5 +29,14 @@ System.out.println(" You can drive a car");
 
 if (age == 10 || age == 20 || age == 30 || age == 40 || age == 50 || age == 60 || age == 70 || age == 80 || age == 90 || age == 100 || age == 120 ){
 System.out.println("Annivesary Party");}
+
+//Age = 100
+if (age ==100){
+    System.out.println("Congradulations!");
+    System.out.println("Congradulation!");
+    System.out.println("COngradulations!");
+}
+
+
     }
 }
