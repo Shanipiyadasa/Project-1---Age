@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-        int age = 100;
+        int age = 40;
         if (age > 0 && age <18){
 
 System.out.println("You are Underage.");
@@ -37,6 +37,12 @@ if (age ==100){
     System.out.println("COngradulations!");
 }
 
+// Age between 40 - 50
+if (age >= 40 && age <= 50){
+
+    System.out.println("Happy mid-life");
+
+}
 
     }
 }
